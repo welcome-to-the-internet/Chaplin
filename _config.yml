@@ -26,8 +26,8 @@ short_bio: >
     A day without laughter is a day wasted.
 profile_picture: http://webbhost.net/img/Avatar.webp
 
-google_analytics: true
-tracking_id: UA-69243698-5
+google_analytics: false
+tracking_id: 
 
 # Build settings | Do not edit anything below this
 markdown: kramdown
