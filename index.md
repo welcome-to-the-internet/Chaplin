@@ -1,6 +1,11 @@
 ---
-layout: default
+layout: page
 title: Home
+sitemap:
+    priority: 1.0
+    lastmod: 2020-10-07
+    changefreq: weekly
+---
 ---
 
 

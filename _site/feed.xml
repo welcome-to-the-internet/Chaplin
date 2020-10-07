@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Chaplin</title>
-    <description>Chaplin is a minimalistic, mobile friendly theme for Jekyll. The Documentation for it is available on this website itself.  You can check out the source on &lt;a href=&quot;http://github.com/bk2dcradle/Chaplin&quot; class=&quot;deactivate-link&quot;&gt;&lt;span&gt; GitHub &lt;/span&gt;&lt;/a&gt;
-</description>
-    <link>http://bk2dcradle.gitub.io/Chaplin/</link>
-    <atom:link href="http://bk2dcradle.gitub.io/Chaplin/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 07 Oct 2020 02:25:51 -0400</pubDate>
-    <lastBuildDate>Wed, 07 Oct 2020 02:25:51 -0400</lastBuildDate>
-    <generator>Jekyll v3.9.0</generator>
+    <title>Massively</title>
+    <description>Jekyll version of the Massively theme by HTML5UP</description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 07 Oct 2020 02:39:44 -0400</pubDate>
+    <lastBuildDate>Wed, 07 Oct 2020 02:39:44 -0400</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
     
   </channel>
 </rss>
