@@ -2,12 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Webbhost</title>
-    <description>Webbhost</description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 07 Oct 2020 02:47:25 -0400</pubDate>
-    <lastBuildDate>Wed, 07 Oct 2020 02:47:25 -0400</lastBuildDate>
-    <generator>Jekyll v3.2.1</generator>
+    <description>Chaplin is a minimalistic, mobile friendly theme for Jekyll. The Documentation for it is available on this website itself.  You can check out the source on &lt;a href=&quot;http://github.com/bk2dcradle/Chaplin&quot; class=&quot;deactivate-link&quot;&gt;&lt;span&gt; GitHub &lt;/span&gt;&lt;/a&gt;
+</description>
+    <link>http://webbhost.net//</link>
+    <atom:link href="http://webbhost.net//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 07 Oct 2020 02:59:19 -0400</pubDate>
+    <lastBuildDate>Wed, 07 Oct 2020 02:59:19 -0400</lastBuildDate>
+    <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Guest Posts</title>
+        <description>&lt;p&gt;Chaplin has support for guest posts. That means that if you were to have another blogger write on your blog, just edit the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YAML&lt;/code&gt; front matter like so:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-yaml&quot; data-lang=&quot;yaml&quot;&gt;&lt;span class=&quot;na&quot;&gt;author&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;Guest Name&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;profile_picture&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;Source for the Picture&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;author_site&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;Author's Presence online&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;short_bio&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;Your Short Bio&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+</description>
+        <pubDate>Sun, 10 Jan 2016 00:00:00 -0500</pubDate>
+        <link>http://webbhost.net//2016/guest-posts.html</link>
+        <guid isPermaLink="true">http://webbhost.net//2016/guest-posts.html</guid>
+        
+        
+      </item>
     
   </channel>
 </rss>
