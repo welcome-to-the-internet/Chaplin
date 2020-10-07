@@ -5,29 +5,9 @@
     <description>Webbhost</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 07 Oct 2020 02:45:02 -0400</pubDate>
-    <lastBuildDate>Wed, 07 Oct 2020 02:45:02 -0400</lastBuildDate>
+    <pubDate>Wed, 07 Oct 2020 02:47:25 -0400</pubDate>
+    <lastBuildDate>Wed, 07 Oct 2020 02:47:25 -0400</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
-    
-      <item>
-        <title>Blog Post</title>
-        <description>&lt;hr /&gt;
-
-&lt;h1 id=&quot;orphic&quot;&gt;&lt;a href=&quot;https://orphic.enterprises&quot;&gt;Orphic&lt;/a&gt;&lt;/h1&gt;
-&lt;h1 id=&quot;orphic-cli&quot;&gt;&lt;a href=&quot;https://cli.orphic.enterprises&quot;&gt;Orphic CLI&lt;/a&gt;&lt;/h1&gt;
-&lt;h1 id=&quot;webbhost-docs&quot;&gt;&lt;a href=&quot;https://docs.webbhost.net/&quot;&gt;WebbHost Docs&lt;/a&gt;&lt;/h1&gt;
-&lt;hr /&gt;
-&lt;h1 id=&quot;tudio-api&quot;&gt;&lt;a href=&quot;https://tudio.us&quot;&gt;Tudio API&lt;/a&gt;&lt;/h1&gt;
-&lt;h1 id=&quot;what-code&quot;&gt;&lt;a href=&quot;https://whatco.de&quot;&gt;What Code&lt;/a&gt;&lt;/h1&gt;
-&lt;h1 id=&quot;what-code-page&quot;&gt;&lt;a href=&quot;https://whatcode.page&quot;&gt;What Code Page&lt;/a&gt;&lt;/h1&gt;
-&lt;h1 id=&quot;headless-work&quot;&gt;&lt;a href=&quot;https://lesshead.works&quot;&gt;Headless Work&lt;/a&gt;&lt;/h1&gt;
-</description>
-        <pubDate>Wed, 07 Oct 2020 00:00:00 -0400</pubDate>
-        <link>/blog/Blogpost/</link>
-        <guid isPermaLink="true">/blog/Blogpost/</guid>
-        
-        
-      </item>
     
   </channel>
 </rss>
