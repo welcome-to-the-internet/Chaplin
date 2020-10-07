@@ -1,11 +1,11 @@
 ---
 layout: about
 title: About
-author: Charlie
+author: Webbhost
 permalink: /about/
 ---
 
-Hi! My name is <span class="highlight-span">Charlie</span>!
+Hi! This is <span class="highlight-span">Webbhost</span>!
 
 > We think too much and feel too little.
 
