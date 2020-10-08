@@ -4,10 +4,10 @@
     <title>Webbhost</title>
     <description>Chaplin is a minimalistic, mobile friendly theme for Jekyll. The Documentation for it is available on this website itself.  You can check out the source on &lt;a href=&quot;http://github.com/bk2dcradle/Chaplin&quot; class=&quot;deactivate-link&quot;&gt;&lt;span&gt; GitHub &lt;/span&gt;&lt;/a&gt;
 </description>
-    <link>http://webbhost.nethttps://webbhost.net/</link>
-    <atom:link href="http://webbhost.nethttps://webbhost.net/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 07 Oct 2020 03:09:42 -0400</pubDate>
-    <lastBuildDate>Wed, 07 Oct 2020 03:09:42 -0400</lastBuildDate>
+    <link>http://localhost:4000https://webbhost.net/</link>
+    <atom:link href="http://localhost:4000https://webbhost.net/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 08 Oct 2020 03:35:34 -0500</pubDate>
+    <lastBuildDate>Thu, 08 Oct 2020 03:35:34 -0500</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       <item>
@@ -20,9 +20,9 @@
 &lt;span class=&quot;na&quot;&gt;short_bio&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;Your Short Bio&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 </description>
-        <pubDate>Sun, 10 Jan 2016 00:00:00 -0500</pubDate>
-        <link>http://webbhost.nethttps://webbhost.net/2016/guest-posts.html</link>
-        <guid isPermaLink="true">http://webbhost.nethttps://webbhost.net/2016/guest-posts.html</guid>
+        <pubDate>Sun, 10 Jan 2016 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000https://webbhost.net/2016/guest-posts.html</link>
+        <guid isPermaLink="true">http://localhost:4000https://webbhost.net/2016/guest-posts.html</guid>
         
         
       </item>

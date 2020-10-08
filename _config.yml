@@ -1,8 +1,8 @@
 # User Settings | Edit these according to your site
 
-title: Webbhost
-email: your@email.com
-author: Webbhost
+title: WebbHost
+email: obrienk@webbhost.net
+author: WebbHost
 
 description: > # this means to ignore newlines until "baseurl:"
   Chaplin is a minimalistic, mobile friendly theme for Jekyll.
